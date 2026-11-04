@@ -1,0 +1,37 @@
+﻿[
+	{
+		"Id": 201,
+		"SerialNumber": "DEV-73184",
+		"Name": "Badminton Court Temperature Sensor",
+		"MinValue": 15.0,
+		"MaxValue": 35.0
+	},
+	{
+		"Id": 202,
+		"SerialNumber": "DEV-84295",
+		"Name": "Shuttlecock Speed Tracking Sensor",
+		"MinValue": 10.0,
+		"MaxValue": 500.0
+	},
+	{
+		"Id": 203,
+		"SerialNumber": "DEV-95316",
+		"Name": "Badminton Court Humidity Monitor",
+		"MinValue": 20.0,
+		"MaxValue": 85.0
+	},
+	{
+		"Id": 204,
+		"SerialNumber": "DEV-16427",
+		"Name": "Smart Court Lighting Sensor",
+		"MinValue": 100.0,
+		"MaxValue": 1500.0
+	},
+	{
+		"Id": 205,
+		"SerialNumber": "DEV-27538",
+		"Name": "Badminton Racket String Tension Sensor",
+		"MinValue": 15.0,
+		"MaxValue": 40.0
+	}
+]
